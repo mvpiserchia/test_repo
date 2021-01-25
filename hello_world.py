@@ -2,4 +2,4 @@ import pandas as pd
 
 print('Hello, World!')
 
-print(__name__)
+print('Upload to Git was a success!')
